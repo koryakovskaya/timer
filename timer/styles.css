@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    background-color: #FF008B;
+}
+
+#timer {
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    font-size: 90px;
+    font-weight: 400;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
