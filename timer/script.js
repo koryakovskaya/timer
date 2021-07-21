@@ -1,4 +1,4 @@
-let deadline = '2021-01-30';
+let deadline = '2021-10-20';
 
 function getTimeRemaining (end) {
     let t = Date.parse(end) - Date.parse(new Date()),
